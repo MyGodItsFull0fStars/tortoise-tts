@@ -1,0 +1,653 @@
+YOUR COMPUTER IS ON FIRE
+Thomas S. Mullaney
+Humanists and social scientists who work on computing and new media are subject
+to daily reminders about how little most technologists reflect upon our work or take
+our scholarship under advisement. We are gadflies, it would seem, always dwelling
+upon the negative sides of technology rather than its unquestionable positives. We
+are technophobes who, either because of our failure to understand the technologies we critique, or perhaps out of envy for the power of those who build them, are
+akin to millenarian street preachers waving signs that read “The End Is Nigh.” Our
+critiques are made in bad faith, moreover, as we are so often spotted using in our
+classrooms, our essays, and our books the very systems, platforms, and devices that
+we lament.
+The profound self-confidence and self-assurance of these same technologists are
+on daily display as well. Their “bias toward action” is considered refreshing; their
+predilection to “move fast and break things” is celebrated. Even when systems fail in
+spectacular fashion, a seemingly endless supply of assuring words are at the ready to
+defuse or deflect.
+Technology firms selling bleeding-edge surveillance systems to authoritarian
+regimes at home and abroad?
+Bad actors.
+Latest-generation web cameras incapable of recognizing the faces of AfricanAmerican users (yet functioning flawlessly with Caucasian users)?1 4 tHoMAs s. MULLAneY
+Bad training data.
+Rampant and historically unprecedented growth of corporate surveillance?
+Terms of usage.
+No matter the problem, it seems, a chorus of techno-utopian voices is always
+at the ready to offer up “solutions” that, remarkably enough, typically involve the
+same strategies (and personnel) as those that helped give rise to the crisis in the first
+place. We can always code our way out, we are assured. We can make, bootstrap, and
+science the shit out of this.
+A largely unreflective rush to automating immense sectors of the labor economy
+out of existence?
+Creative destruction.
+Widely documented gender, class, and ethnoracial inequalities across the IT labor
+force?
+A pipeline problem.
+Camera “blink detection” technology repeatedly flagging users of Asian descent
+with the prompt “Did Someone Blink?”2
+A bug, not a feature.
+Google’s image-recognition algorithm tagging the faces of African-American individuals with the word “gorillas”?3
+They fixed it in the next release.
+From the standpoint of technologists, the appeal of this argument is not hard to
+understand. If one believes in it, after all, then one also believes that technologists
+should continue to enjoy a monopoly, not only over the first-order creation of an
+ever-increasing number of computationally grounded political, social, cultural, and
+economic frameworks, but also over the second-order repair and replacement of said
+systems when they (repeatedly) fall short or break down. Who would want to relinquish such a plum position?
+The contributors to this volume— scholars who approach computing and new
+media from a variety of critical perspectives derived from humanistic, social scientific, and STEM disciplines—h ave come together to issue a manifesto that can be
+summarized as follows:
+Your computer is on fire.
+Humankind can no longer afford to be lulled into complacency by narratives of
+techno-utopianism or technoneutrality, or by self-assured and oversimplified evasion.
+Every time we hear the call of a lullaby—s oothing words such as “human error,”
+“virtual reality,” “the Cloud,” or others meant to coax us back to sleep, leaving the YoUr CoMpUter is on Fire 5
+“adults” to continue driving—o ur response should be a warning siren, alarming us and
+those around us into a state of alertness and vigilance. Every established or emerging
+norm needs to be interrogated—w hether the taken-for-granted whiteness of humanoid robots, the ostensibly “accentless” normative speech of virtual assistants, the near
+invisibility of the human labor that makes so many of the ostensibly “automated” systems possible, the hegemonic position enjoyed by the English language and the Latin
+alphabet within modern information-processing systems, the widespread deployment
+of algorithmic policing, the erosion of publicly governed infrastructures at the hands
+of private (and ultimately ephemeral) mobile platforms, the increasing flirtation with
+(if not implementation of) autonomous weapons systems capable of selecting and
+engaging targets independently, and the list goes on. The long-standing dismissal or
+evasion of humanistic and social scientific critiques of computing and new media is
+over. It has to be over, because to allow it to continue is simply too dangerous.
+NOTHING IS VIRTUAL
+When we speak of “fire” in this volume, we do so in three interconnected ways.
+Our first usage is literal. Despite widespread tropes that portray computing and new
+media as immaterial and disembodied— whether through an emphasis on “virtual”
+reality, “telepresence,” “the Cloud,” “streaming,” the “postindustrial” economy, or
+otherwise—c omputing and new media are nothing if not entirely physical, material, and organic. They are physical machines, propelled by fire both material and
+metabolic. When they run, they run hot; and when they work hard, they run hotter.
+Data centers alone account for more than 2 percent of global energy use, energy consumption predicted to grow with the expansion of the Internet of Things.4 (Google
+emitted over 50 kilograms of CO in the time it took for you to read this sentence.)
+2
+Through the studies of platforms and infrastructure, bitcoin mining, programming
+languages, underground cable networks, and much more, this volume drives home
+what is often termed the “materiality of the digital”—t hat is, the physicality of computational and new media technologies that are too often described in ethereal terms.
+Computing and new media depend upon flesh-and-bone metabolism. Our “virtual worlds” are made possible by battalions of human beings (as well as nonhuman
+organisms): cable layers, miners, e-waste recyclers, content moderators, call-center
+operators, data-entry technicians, and repair technicians, many of whom come from
+marginalized class, racial, and gendered positions. Computing and new media run
+on a vast metabolic conflagration. In certain cases, the work of fabricating so-called 6 tHoMAs s. MULLAneY
+virtual experiences exposes laborers to a daily regimen of toxic by-products of electronics manufacturing and disposal and, in other cases, to forms of post-traumatic
+stress disorder (PTSD) that grow out of long working days spent concentrating on
+realms of the digital world that the rest of us rely upon them to keep out of view:
+still-frame and live-action portrayals of extreme violence, child pornography, and
+vicious or hateful speech.
+With all of this in mind, we wrote this book to remind ourselves and our readers:
+Every single thing that “happens online,” “virtually,” and “autonomously” happens
+offline first—a nd often involves human beings whose labor is kept deliberately invisible. Everything is IRL. Nothing is virtual.
+THIS IS AN EMERGENCY
+Fire also signals a state of crisis. Whether in the context of criminal justice practice,
+accelerating ecological crisis, access to credit and capital, governance, or elsewhere,
+computation and new media increasingly have life-or-death consequences. They are
+becoming ever more woven into the fabric of our social, political, and economic
+lives, and as this happens the conscious and unconscious values of system builders
+become encoded into the very algorithms that undergird said systems. Inequality,
+marginalization, and biases are transposed from the social and political world, where
+they can (at least in theory) be struggled over in the light of day, and rendered more
+durable, invisible, unavailable to human audit, and thus largely unassailable within
+the realm of computation. In this process, inequalities of gender, race, class, religion,
+and body type find their way into robotics, automated decision-making systems, virtual assistants, code academy curricula, search algorithms, and much more. Expanding beyond the first theme above, then, not only is it essential to remind ourselves
+that “nothing is virtual” but more broadly that there are dangerous consequences
+whenever one describes computational and new media forms using sanitized,
+deodorized, and neutralized vocabularies that exempt them from critical analysis.
+WHERE WILL THE FIRE SPREAD?
+Fire also propagates— in which direction and with what velocity is nearly impossible
+to forecast with certainty. It can spread steadily and predictably, moving out along
+fronts across contiguous territory. But it can also leap across space, riding atop a
+single airborne ember, and rapidly surround us. YoUr CoMpUter is on Fire 7
+We invoke this dimension of fire to emphasize the profound difficulties we face
+when deciding where we as scholars and activists should concentrate our attention and deploy our resources most effectively. Where are the frontiers of computing and new media, whether in terms of emerging and future forms of hegemony
+or, by contrast, novel forms of subversion and liberatory possibility? Many have
+already begun to realize that such frontiers may not be located where we might
+assume. If the vanguard of artificial intelligence research once resided in the defeat
+of Russian Garry Kasparov by chess-playing Deep Blue, more recently it lies in the
+2016 defeat of Korean Lee Sedol at the “hands” of Google’s Go/Weiqi/Baduk-playing
+system AlphaGo.5 In the same year, China took top prize as the global leader in
+supercomputing for the seventh time in a row, with its Sunway TaihuLight clocking a theoretical peak performance of 125.4 petaflops, or 1,254 trillion floating
+point calculations per second.6 Meanwhile, banking systems long reliant upon stategoverned infrastructures are rapidly being displaced on the African continent by the
+cellphone-based money transfer system M-Pesa— the largest mobile-money business
+in the world.7 And bringing us full circle, many of the cellphones upon which this
+multibillion-dollar economy runs still use T9 text-input technology—a technology
+that, although invented in North America, found its first active user base in Korea via
+the Korean Hangul alphabet. Where should the fires be fought? Where should fires
+be kindled (perhaps even lit)?
+THE TIME FOR EQUIVOCATION IS OVER
+Each essay in this book is framed as a direct and uncompromising declaration of
+fact. When you peruse the table of contents, you will see immediately that the essays
+do not argue that the Cloud “can be thought of” as a factory or that sexism “can be
+considered” a feature rather than a bug in the history of computing. Instead, the
+essayists draw upon their formidable research experience and deep knowledge of the
+technical subject matter at hand to cut directly to the heart of the matter. The Cloud
+is a factory. Your AI is a human. Sexism is a feature, not a bug.8
+Our choice of phrasing is deliberate. Collectively, these essays are meant to serve as
+a wake-up call to both our colleagues and students in STEM fields, articulating these
+points in ways that, by being unequivocal, do not permit equivocation from our
+readers. Debate, certainly. Disagreement, quite likely. But evasion or facile technooptimism? No. 8 tHoMAs s. MULLAneY
+These declarations of fact are also meant as a wake-up call to humanists and social
+scientists. By insisting on empirically rich, nuanced, yet unapologetically direct and bold
+arguments from all of our contributors, this volume represents a recognition, as it
+were, of a kernel of truth in the widespread dismissal of our work by those who are
+closest to the centers of production in the computing and new media economy. Critics like us, we must admit, have pulled our punches far too often. In spite of years of
+research and intellectual labor, a deep and hard-earned command of the technical
+systems under examination, as well as rich evidentiary and theoretical bases, we too
+often stop short of where we could take our arguments and conclusions. Too often,
+we hedge our bets and use formulations like “can be thought of as,” or “is analogous
+to,” or “is comparable to,” and so forth— formulations that leave readers wondering:
+Does this author really mean what they say, or are they merely proposing a “way of
+seeing”? We are in a position to make urgent and reasonable demands of ourselves,
+our elected officials, and our most decidedly unelected industry leaders whose actions
+(and inactions) in large part define the lives we lead. The time for equivocation is over.
+It is also important to stress that the goal of this volume is not to leave readers with the impression of a world, or a future, that is foreclosed and dark. Each
+contributor strikes a balance between certain sober realities about computing and
+new media, while always acknowledging their ubiquity, often their indispensability,
+and the sometimes awe-inspiring nature of technologies that have or are quickly
+becoming part of our everyday lives. Likewise, while the contributors grapple with
+questions of inequality—i nequalities of gender, race, language, and more— we also
+remain vigilant about not inadvertently reproducing such inequalities by means of
+stereotype threat. While we feel it is essential to take an uncompromising look at
+ongoing dilemmas of gender and racial inequality, for example, the goal is not to
+dissuade readers—w hether women, persons of color, first-generation students, or
+others— from pursuing their passions within the context of one or another STEM
+field. This volume is not, in other words, crafted as a call of despair but as a call to
+arms. We very much hope that the students who read this book will go on to take up
+positions in STEM fields, and then to agitate therein on behalf of the issues we raise.
+ACKNOWLEDGMENTS
+I wish to thank my coeditors, all participants in the two Stanford conferences, and
+one conference at the Computer History Museum, that helped give rise to this volume; our editor Katie Helke, and her colleagues at the MIT Press; and Joseph Rulon
+Stuart, for his capable work on the index. YoUr CoMpUter is on Fire 9
+NOTES
+1. “HP Computers Are Racist,” YouTube (December 10, 2009), https://www.youtube.com/
+watch?v=t4DT3tQqgRM.
+2. https://www.flickr.com/photos/jozjozjoz/3529106844.
+3. Kate Crawford, “Artificial Intelligence’s White Guy,” New York Times (June 25, 2016), https://
+www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.htm.
+4. Fred Pearce, “Energy Hogs: Can World’s Huge Data Centers Be Made More Efficient?” Yale Environment 360 (April 3, 2018), https://e360.yale.edu/features/energy-hogs-can-huge-data-centers
+-be-made-more-efficient.
+5. Cade Metz, “Google’s AI Wins Fifth and Final Game against Go Genius Lee Sedol,” Wired (March
+15, 2016), https://www.wired.com/2016/03/googles-ai-wins-fifth-final-game-go-genius-lee-sedol/.
+6. Thomas S. Mullaney, “The Origins of Chinese Supercomputing, and an American Delegation’s Mao-Era Visit,” Foreign Affairs (August 4, 2016), https://www.foreignaffairs.com/articles/
+china/2016-08-04/origins-chinese-supercomputing; Thomas S. Mullaney, “‘Security Is Only as
+Good as Your Fastest Computer’: China Now Dominates Supercomputing. That Matters for U.S.
+National Security,” Foreign Policy (July 21, 2016), http://foreignpolicy.com/2016/07/21/china
+-taihulight-sunway-encryption-security-is-only-as-good-as-your-fastest-computer/.
+7. See Paul N. Edwards, “Platforms Are Infrastructures on Fire,” ch. 15 in this volume.
+8. The essays in this volume address a wide variety of subject matter and case studies, ranging
+from human-in-the-loop content moderation to Bitcoin mining, from mobile banking platforms
+to game design, and from undersea cable networks to keyboard interfaces, among many other
+examples. At the same time, the volume does not aspire to be a “conspectus” on computing and
+new media. There are noteworthy omissions, such as high-frequency trading, 5G and the question of cellphone radiation, disability studies, biohacking, election hacking, and a great many
+other subjects. Our hope is that this volume, rather than trying to exhaust all possible avenues
+of discussion, provides a clear enough road map to help inspire the student and reader to grapple
+with subject matter we have not addressed. In this sense, the volume is well positioned for use in
+a classroom and for providing a well-structured yet open space for students to take some of the
+issues explained here into new areas of consideration. Moreover, the essays are written in a crisp,
+propulsive tone, and the word count is kept intentionally low, to enable instructors to assign
+them in clusters to their students in both STEM fields and the humanities. In this way, our goal is
+to help instructors help their students think comparatively and expansively.  WHEN DID THE FIRE START?
+Mar Hicks
+My institution is a tech-and-engineering-focused school, and I teach a course there
+called Disasters. It tends to attract engineering students looking for a humanities
+elective, despite—o r because of— the disturbing subject matter. When I designed the
+course, I knew that it would be a major draw because, even if a person might not wish
+for bad things to happen, when bad things do happen, it’s often difficult to look away.
+I never imagined that I would be teaching the course in the middle of a global
+pandemic.
+As we shifted our class online in March 2020 in order to safeguard our health,
+our lives, and the lives of those around us, and to try to slow a deadly and highly
+transmissible virus, I found myself thinking about other types of destructive virality,
+and about October 2019, when I watched Mark Zuckerberg testify before Congress.
+During his questioning by Congresswoman Alexandria Ocasio-Cortez about misinformation on his platform, Zuckerberg tried to give a series of vague nonanswers but
+occasionally tripped up in ways that showed that he truly did not understand the
+scope and scale of the problems he had helped unleash on society.
+The questions asked of him in Congress mostly took for granted that, as the lead
+architect of Facebook, Zuckerberg could also be the driving force behind solving its
+problems, if only he could be convinced to take responsibility. Ocasio-Cortez’s questioning, however, showed that he actually didn’t even have enough knowledge of
+politics or the world around him to really understand the problems of misinformation on Facebook, never mind the will to fix them. 12 MAr HiCKs
+Recalling his answers, I thought about how online technologies, now so crucial
+to prevent the spread of deadly misinformation, had been functionally asleep at the
+wheel for years, in large part because their leaders, and even many of their workers,
+had indulged in the fiction that the technology that shapes our lives can somehow be
+neutral or apolitical even though it has clear and massive impact on our social relations.
+This exchange in front of Congress, with a progressive Congresswoman grilling a
+former tech ingenue who is now one of the world’s most powerful men, made clear
+what students in my disasters course already knew: that we are in the midst of witnessing a disaster right now sharpened by so many of the problems with “Big Tech”
+that we have seen growing for at least a decade. What is transpiring with the giants
+of Silicon Valley and their impact on our national and international infrastructure
+deserves a full unit in my disasters course, because the call for change in high tech,
+and the need for solutions, has never been more urgent.
+You might think that taking a course on disasters in the middle of a disaster would
+be too much to bear. But from what I heard from my students, completing the course
+in these circumstances was grim but useful. Instead of just being a litany of horrible
+events, my disasters course shows students how disasters—a wful as they are—can
+help create the kind of political, industrial, and regulatory change that is needed
+for a stable and functioning democracy. Students learn how the horror of a disaster
+can often be the final push that catalyzes much needed changes made by legislators,
+politicians, and citizens. Even though the problems that cause disasters are never
+unforeseen, it sometimes takes a disaster, replete with loss of life and other kinds
+of destruction, to convince the populace and government to respond— to actually
+force change on corporations and industries that have not been subject to enough
+oversight. But the hundred thousand US dead at the time of this writing in May 2020
+(who are disproportionately Black, Latinx, and Indigenous Peoples), and the many
+more people in the streets protesting police brutality against Black citizens, are an
+urgent reminder of just how much destruction and loss of life are often excused—
+especially if those dying are Black, disabled, poor, or elderly.
+Right now we are seeing the complete upending of ethical, privacy, political, and
+economic norms by powerful Silicon Valley corporations who are almost singlehandedly deciding what counts as misinformation, what counts as hate speech, and how
+much privacy you are allowed to have. In some cases, single individuals are making
+these decisions: as in the case of Mark Zuckerberg’s decision to leave a president’s
+incitement to violence up on Facebook during civil unrest (while Twitter, for the first
+time, attached a warning and filter).1 WHen DiD tHe Fire stArt? 13
+We’ve seen inexorable industry overreach into the conduct of our lives and institutions before—f rom the robber barons of the Gilded Age to the irresponsible destruction of lives and the environment at the hands of the auto industry and chemical
+corporations in the mid-twentieth century. We’ve even seen telecommunications
+and computing companies that have gotten too big for their, and our, own good
+before. The breakup of AT&T and the antitrust proceedings against IBM and Microsoft in the 1980s and 1990s, respectively, significantly shaped our current high-tech
+landscape, paving the way both for the mega-corporations that replaced them as well
+as for those corporations’ similar, eventual falls from grace.
+But somehow, each time a disaster like this happens, or a corporation gets too
+big, it seems like a new problem. That is because although the patterns of neglect,
+greed, and harm are the same, the devil is in the details of each technology—
+whether it’s cars, oil, or computer platforms. The technology involved with each
+new disaster changes just enough to defamiliarize the situation and to allow
+people to ignore striking similarities with the past. This creates enough time for
+new corporations to gain runaway power and form new infrastructures that
+we all have to live with and use, no matter how imperfect or problematic they
+may be. Over the past twenty years, we have seen that very process play out
+with the internet and the digital economy, until now, when we have reached a
+crisis point.
+WE DIDN’T START THE FIRE
+I had a favorite history teacher who used to say that there was nothing new under
+the sun— but that didn’t mean that you knew about it all yet. This is perhaps the
+most important thing to remember about the utility of history: there is always more
+to learn about the past that will help us shape the future. The second most important thing is perhaps realizing that failure stories—n ot just feel-good narratives that
+make us feel like things are bound to always get better in the long run—a re critically
+important if we, as citizens and workers, are going to play a productive role in the
+struggle for a better future.
+So when did the fire start? Well, if the fire refers to our complicated relationship with technologies designed to make our lives better but that often backfire in
+unforeseen ways and create new problems, that fire has been burning for centuries. The disasters course I mentioned above begins with the 1854 London cholera outbreak. This was the first cholera episode deemed bad enough—p articularly 14 MAr HiCKs
+because it happened in a better-off neighborhood previously thought immune to
+the disease—t o jolt London into creating sanitary sewers and massive underground
+infrastructures that would once and for all be able to ensure the city’s water supply
+was not perpetually poisoned by its own production of waste. London was literally
+eating— well, drinking— its own shit. While this episode may seem a long way off, it
+should be humbling to recall that less than two hundred years ago instituting technologies to keep sewage away from drinking water was considered first optional, and
+then revolutionary. As the United States stumbles in our scientific and social understandings of COVID-19 and the best way to end the pandemic, we might look back
+with more understanding and sympathy for these confused, cholera-ridden Londoners, drinking the wastewater that was killing them because, for most ordinary
+citizens at the time, there simply was no other choice.
+Most of the technological advancements we’ve seen over the course of the nineteenth and twentieth centuries, from skyscraper cities to the ubiquity of the World
+Wide Web, involve some amount of literal or figurative shit-eating by average citizens, and also long periods of time during which obvious, systemic problems are
+mostly ignored by those at the top echelons of industry and government. Throughout history, we see technologies often deployed at scale for real-life beta testing, and
+the ensuing problems this inevitably presents. Since those problems disproportionately harm those with the least power in society, there is usually a long lag between
+the problems being noticed or cared about by people in charge and becoming seen as
+important enough or disturbing enough to warrant solving. One dirty secret is that
+often these problems are foreseen, but those in charge don’t really care about them
+too much, seeing them as unrelated to the “real” problem that they are hoping to
+solve or the product they are hoping to make.
+Another thing about disasters is that they don’t simply happen by accident but
+rather are constructed: or, one could even say, designed. Mark Zuckerberg’s first
+attempt at constructing a social media platform was a “hot or not” rip-off site that
+objectified his women classmates, using pictures stolen off the internal Harvard facebook servers. Zuckerberg called his site FaceMash, and the copy at the top of the site
+read: “Were we let into Harvard for our looks? No. Will we be judged on them? Yes.”
+In doing this, Zuckerberg found a way to amplify, speed up, and scale up that process of voyeurism and objectification long possible with the original, paper, college
+facebooks. He made this element central to his design for his first social platform.
+Given this history, it may come as less of a surprise that his later platform designs
+had a kind of built-in voyeurism and a tendency to objectify and profit off of users, WHen DiD tHe Fire stArt? 15
+and that doing this without their full, knowing consent was baked into the nature
+and business model of the platform.2
+This is not unusual— there are almost always red flags and warning signs before
+a disaster, if one cares to look. But often the people who sound the alarm, or notice
+these red flags, are the one who are least likely to have status, least likely to be listened to, and least likely to be believed. Their narratives form a constant counterhistory, but one that is usually only unearthed and taken seriously after the worst has
+come to pass.3 Instead of coming as a total surprise, most disasters are more akin to a
+wake-up call: they have a way of showing which problems have been actively hidden
+for too long and which voices of warning have been ignored.
+This is the process we have been witnessing since the first internet bubble of the
+late 1990s: a programmer or set of programmers hacking together an imperfect prototype, then unleashing it on the world with the help of venture capitalists whose
+only objective is maximum profit, and seeing where the chips fall. “Move fast and
+break things” ran the motto of these self-styled disruptors, because when you are
+rich enough, and privileged enough, it might seem like all the breaking you’re doing
+doesn’t have negative consequences. This is especially the case when the people
+you’re hurting don’t have a seat at the table and aren’t the sort of people you would
+tend to include on your programming team, in your boardrooms, or in your shareholders meetings.
+An early AI researcher, Joseph Weizenbaum (the creator of the ELIZA chatbot; see
+fig. I.1), once said: “I think the computer has from the beginning been a fundamentally conservative force. It has made possible the saving of institutions pretty much
+as they were, which otherwise might have had to be changed. Superficially, it looks
+as if [things have] been revolutionized by the computer. But only very superficially.”
+Weizenbaum was a child refugee of the Holocaust who became an MIT computer science professor, and he participated in programming many of the systems he came to
+critique, noting that at the time he was doing the programming it was hard work and
+he was having “too much fun” in “attacking those hard problems” to think much
+about broader effects. Although he had narrowly escaped the mechanized death of
+Nazi Germany, which relied on centralized information technologies to help round
+up and kill over 6 million Jewish people, Roma, homosexuals, disabled people, and
+others judged inferior by the Nazis, he went on to build many similar, centralizing
+information technologies for US industry and government. “It never occurred to
+me at the time that I was cooperating in a technological venture which had certain
+social side effects which I might come to regret,” he later said.4 16 MAr HiCKs
+Figure I.1 Screen capture of author’s conversation with ELIZA while writing this introduction.
+Weizenbaum might be forgiven for this lack of foresight: for instance, as he was
+helping banks computerize, he failed to see the dangers of the increasing centralization of the banking industry that these computerized “solutions” would foster. When
+Weizenbaum experimented with AI, creating his first chatbot, ELIZA, he began to
+understand the dangers in what he was doing because he saw how people interacted
+with his creation. This provoked a lifelong crisis of conscience and a new consciousness of his responsibilities as a programmer. But decades later, most programmers
+creating websites that monetize people’s private information, while abrogating their
+privacy and data mining their entire identities, did not have a similar crisis of conscience. Zuckerberg once said mockingly to a friend who asked why people were
+uploading all of this private information, “I don’t know why. They ‘trust me.’ Dumb
+fucks.”5 Decisions about which technologies should exist cannot simply be left to
+programmers.
+With the benefit of hindsight and disciplines other than computer science we
+can clearly see how the internet economy has long generated wealth through taking advantage of existing inequalities, existing infrastructure, and by using venture
+capital funding to reinvent the wheel, only to crush people who aren’t in the driver’s seat. Some of the earliest corporations to do this appeared to be offering novel WHen DiD tHe Fire stArt? 17
+solutions—a nd in some ways were. Yahoo and other early email and online news
+hubs helped reinvent and scale mail and news delivery mechanisms. Google found
+a new way to serve and profit from advertising while indexing the web. Friendster
+and Myspace, and later Facebook, Twitter, and Instagram, reinvented social networks
+that had earlier relied on physical or telephone interactions. Most seemed beneficial,
+or at least relatively harmless, at the start. Or did they?
+If we look back with a critical eye, we recall that Yahoo, through its auctions site,
+early on ran afoul of hate speech laws in other countries by hosting, and defending,
+the sale of Nazi paraphernalia. Yahoo did this on ahistorical grounds, putting their
+corporation’s business needs over the rights of citizens likely to be harmed by hate
+speech, or killed by genocidal political ideals. Google, especially after the advent of
+street view and Gmail, provoked major concerns about the centralization of so many
+citizens’ information in the hands of a private corporation, as well as concerns about
+how it was casually undoing expectations that many people had about the privacy of
+their personal information. Google’s efforts to index and make visible the entirety of
+the web were presented as neutral and helpful, but at the same time the company’s
+goal was to monetize all of that information, and our searches through it, for ad sales.
+Google’s now-discarded original motto “Don’t be evil” perhaps seems, in retrospect,
+to hint at a deeper understanding on the part of its founders that what the company
+was doing could go badly off the rails without proper oversight. Lastly, Facebook’s
+roots in sexism and ongoing privacy violations are at this point well known. We
+understand now that it had a business model that seemingly had harm built into it
+at the ground level, even if a now-older Zuckerberg has tried to rewrite history and
+sanitize the story of Facebook’s origins and his corporate strategy.6
+In some ways the stories above are unsurprising, and fit a pattern: the entire history of electronic computing is, as is the case with many technologies, intertwined
+with efforts at domination. Early computers were used in the service of warfare, and
+were also operated by a workforce of women who were silenced and submerged in
+the historical record for decades. Although the Colossus code-breaking computers
+helped the UK and Allies win World War II, they also showed the enormous might
+of computers and their alignment with militarism and political power.7 While men
+at the top made claims about the wonderful new future that computers could bring
+during the Cold War, women—a nd in the US, particularly Black women— were unacknowledged grist for the mill of computing, grinding away at some of the hardest
+problems that needed to be solved. In the words of Margot Shetterly, Black women
+were helping to put a white man on the moon while Black people often still couldn’t 18 MAr HiCKs
+even safely drive to the next state.8 This continued through the Cold War and the
+Space Race, when, as Meredith Broussard has discussed, the budding field of artificial
+intelligence began to promise, with little evidence and no proof of concept, that
+computers could transform every aspect of our society for the better.9
+As Broussard points out, this kind of “blue sky” thinking about computers’ supposedly fantastic ability to foster social progress was encouraged with massive government funding and grants that simply took it on faith that computing experts were
+somehow ideally poised to tackle societal problems, not just technical ones. That
+these computing technologies were heavily funded by the government, and thought
+to be instrumental to successful warfare, was no coincidence. These assumptions
+helped quickly ramp up fields like AI while building in virtually no accountability.
+This feedback loop between industry, government, and academic computer science progressively sought to heighten our dependence on computers without any
+proof that those with technical skills could solve, or even understand, social, political, economic, or other problems. Indeed, often there was little evidence they could
+even deliver on the technical solutions that they promised. The visions of general
+AI outlined by Alan Turing, Marvin Minsky, and others in the twentieth century
+still have barely materialized, Broussard points out, and where they have, they have
+come with devastating technical flaws too often excused as being “bugs” rather than
+fundamental system design failures.
+In addition to a lack of accountability, power imbalances continued to be a bug—o r,
+if you prefer, a feature—i n the drive to computerize everything. Even as swords
+turned to plowshares in the twentieth century and electronic computers moved out
+of the realm of warfare and squarely into business and government administration,
+computing corporations showed repeatedly how computers tended to privilege those
+with the most money and power already, and provided centralized solutions that
+could easily lead to devastating loss of life or of people’s civil rights. Technologies
+provided by IBM, the bellwether of the tech market in the mid-twentieth century,
+played a role in the Holocaust, then later supported the white supremacist apartheid
+government of South Africa.10 Bill Gates engaged in such out-of-proportion attempts
+to torpedo competitors and get a stranglehold on the information network of the
+early World Wide Web in the 1990s and early 2000s that multiple governments
+opened antitrust proceedings against Microsoft. And throughout these episodes, the
+managerial workforces at these corporations remained relatively homogeneous, with
+their leadership made up almost exclusively of white upper-and middle-class men. WHen DiD tHe Fire stArt? 19
+IT WAS ALWAYS BURNING
+As surveillance scholar Simone Browne has shown, the interrelationships between
+power, surveillance, and white supremacy were not technological accidents; they are
+a historical process that has formed a fundamental part of technological design in
+US history.11 The largest, most respectable, and most middle-of-the road computing
+companies not only practiced racist and sexist hiring and promotion for most of
+their histories but also, at a fundamental level, had an alignment with those in power
+globally which helped exacerbate existing social and political harms in their own
+nations and others.12 These were not accidents or bugs in the system, but examples of
+business as usual. As Halcyon Lawrence describes later in this volume, technologies
+have long built on existing power relationships— particularly ones that extend and
+normalize empire, colonialism, and the cultural control that comes with imperial
+domination. If early electronic computers were powerful political tools, ones that
+determined the course of a world war, is it any wonder that ever more advanced electronic computers have been helpful for consolidating and wielding power?
+Disasters build, fulminate, and eventually explode into mainstream consciousness because problems that many people take for granted as necessary for a system
+to work start to get out of hand. Disasters happen because the people at the top who
+claim that the system works—t hat their way of doing things is the best way—t end
+to proceed down paths that are destructive for many other people in society, even
+if many people with less power point out the coming danger. Disasters have a way
+of showing how lopsided our views of technological progress are, highlighting the
+problems that were always there but never got fixed, because the incentives to leave
+the system half-broken were too great.
+If the history of disasters shows us nothing else, it is that the old adage about
+trusting the fox to guard the henhouse will always end up the same way. Increasingly, as corporations have been able to place themselves in the role of arbiter of
+their own products and value, it has meant that democratic input into the process of
+deciding which technologies are safe, useful, or worthwhile has been short-circuited.
+Even with established technologies with good safety records, like commercial airliners, this can create a disaster surprisingly quickly. Before the automated MCAS system forced two Boeing 737 Max airplanes to drop out of the sky in quick succession
+in 2019, killing hundreds of people, Boeing engineers had argued that the system
+was unsafe. But they were overruled by management. Boeing was able to force the
+dangerous new feature through, undetected, because the government agency meant 20 MAr HiCKs
+to regulate them was instead letting the corporation largely call the shots. After the
+first crash, Boeing’s CEO continued to insist the system was safe, blaming the crash
+on pilot error even though Boeing had removed the relevant parts of the manual
+that might have allowed the pilots to recover from the malfunction. Had it not been
+for whistleblowers and dedicated investigative journalists, Boeing may have gotten
+away with this, and more.
+The larger lesson, however, is that regulatory agencies that should have prevented
+disasters like the 737 Max tragedy had been stripped of their ability to do so, and
+whole sectors that require regulation, like web technologies and online communication platforms, effectively have no external oversight bodies. In the US since 2016,
+instead of more regulatory safeguards put into place by a democratically elected government, we have seen runaway centralization and the destruction of regulatory
+and safety agencies under an increasingly authoritarian federal government. During
+a global pandemic this has meant that even healthcare supplies and vital public
+information have been withheld from citizens and state governments. Scientists and
+epidemiologists at the CDC and NIH have been increasingly forced out or muzzled,
+and many of the teams dedicated to pandemic response had been dissolved prior to
+the COVID-19 crisis, leaving a gaping hole of expertise where our disaster response
+should have been.
+As the president screamed on Twitter, taking his misinformation about state leaders, the progress of virus research, and elections directly to the public, suddenly an
+unregulated tech company with no competence or background in history, politics,
+journalism, rhetoric, the psychology of online interaction, or fact checking was
+thrust into the position of trying to unbuild the minsinformation machine that has
+been long in the making. Many people thought sites like Twitter and Facebook were
+harmless, until they helped give a platform to one of the most dangerous presidents in US history, and helped authoritarianism and genocide advance in multiple
+countries.
+We are witnessing a period in which it is becoming ever more urgent to recognize that technological progress without social accountability is not real progress—
+and that in fact it is destructive to the democratic institutions and norms we have
+long held up as ideals. As Sarah T. Roberts shows in her chapter in this book, the
+fiction that platforms that are our main arbiters of information are also somehow
+neutral has effectively destroyed the public commons. As Safiya Noble has shown
+in Algorithms of Oppression, trusting an advertising corporation to be a neutral purveyor of information when their profits depend on manipulating that information WHen DiD tHe Fire stArt? 21
+fundamentally misunderstands our capitalist marketplace as well as the value and
+nature of unbiased information. This insight extends to every platform that makes a
+profit through telling people what they are expected to want to hear, or want to click
+on, rather than the often inconvenient, unprofitable, or disturbing truth.13
+As scholar David Golumbia points out, in the US in the twenty-first century, there
+is widespread belief that governments should not have access to privacy-invading
+technologies like facial recognition, yet many ignore the fact that multibillion-dollar
+corporations are already deploying these technologies with no democratic oversight
+or citizen input.14 Because corporations are not elected, they cannot be voted out,
+and yet they have become pseudogovernmental by virtue of their wealth, power,
+and the reach of their technological systems. Their leaders insist that they, and they
+alone, know what is best for us—f rom what information we should see to how much
+privacy we should retain. Increasingly, these companies have placed themselves in
+the role of determining how we move about in the world, literally and figuratively,
+and their power to define our reality increasingly extends to the power to decide
+elections in the US and other nations, taking away our most fundamental rights
+as citizens to self-determination. These corporations tacitly assert that our future
+should be decided in the end by what is most profitable and efficient for them, rather
+than being left to the messy process of democracy unfiltered by the technocratic
+class. They tell us to trust them and repeatedly assure us that the tech industry will
+police themselves and fix their own mistakes.
+Unfortunately, as a historian, I can tell you this never works. If the crisis we are
+currently living through has not already made it apparent, we can see it clearly in
+the recent technological history of our closest historical cousin. The UK context provides a clear cautionary tale—a s I discuss later in this volume, and at further length
+in my book, Programmed Inequality. That country, after inventing and successfully
+deploying the first electronic programmable computers to change the outcome of
+World War II, managed to destroy its own trained technical labor force, and with
+it its computing industry through sexist labor practices. We now see this clearly
+taking shape in high tech in the US, where sexism and racism have not only held
+back major advances (by starving these industries of talent and frustrating the career
+outcomes of people who were born with the “wrong” gender and/or skin color), but
+have also played an increasing role in our public discourse and our political process. That those at the top often cannot understand the social, economic, and political harms they are perpetrating is unfortunately not a new story in the history of
+computing. 22 MAr HiCKs
+Even when it loses money, a broken system that consolidates more power will
+not be discarded. Civil rights, workers’ rights, and care for consumers are never
+as convenient or profitable as oppression and exploitation, because oppression is
+about power as much as it is about profit. It is hard enough to dislodge and correct such broken systems when we do have a say—a legally protected vote—i n how
+they should function. It is exponentially harder when the very basis on which
+the system operates means we do not. After getting pushback from their own
+employees on the company’s ethical failures, post-“ don’t be evil” Google management appointed a problematic “AI ethics board” without giving employees
+a voice. Employee pushback got the board disbanded, but the company now has
+no AI ethics board, nor is it required to have one.15 Labor unrest and consumer
+complaints can only pressure corporations into better behavior when governments
+enforce laws and regulations meant to protect our lives instead of the companies’
+bottom lines.
+In 1911, workers throwing themselves out of the upstairs windows of a burning factory in New York City sparked a worldwide labor movement. These workers, mostly young immigrant women, jumped from the top floors of the Triangle
+Shirtwaist Factory because the building was on fire and they had been locked in by
+their employers. In this case, the horror of seeing more than one hundred crumpled,
+charred bodies laid out on the city streets was able to shock the world, and particularly the wealthiest and most powerful in New York society, into believing how bad
+things had gotten, winning them over to the workers’ side. But in the courts, the factory owners essentially got away with mass murder. Only continued labor struggles
+and the power of workers at the ballot box eventually changed the laws that governed safe working conditions and saved many future workers’ lives. Holding corporations accountable has never been easy, and shocking citizens in a wealthy nation
+into action requires concerted, organized efforts. A disaster alone is never enough.
+WE DIDN’T LIGHT IT, BUT WE TRIED TO FIGHT IT
+And herein lies the best hope we have for extinguishing the fire currently engulfing
+us: we need to take advantage of this moment of disaster to understand how connected our systems are, and to leverage grassroots action and worker organization to
+change the ways we work, live, and govern ourselves. For decades, the corporations
+that built the digital economy have tried to make us think that we could consume
+without end, speak without consequence, and outsource our responsibilities for ethical systems to someone at a higher pay grade. We now see how wrong that was. WHen DiD tHe Fire stArt? 23
+For decades, computing companies have tried to convince all white-collar workers
+that they were management, or aligned with management, and so did not need to
+argue with those at the top, or need unions to help press for change. As recent events
+in the tech industry have shown, nothing could be further from the truth. From
+Google to Kickstarter, tech workers have begun to see that, if they don’t have a real
+voice in deciding the direction of the company, they don’t have any control over the
+harms created by the products they make. As individuals, their voices can be easily
+ignored, as the Boeing example shows.
+As a group, however, tech workers—a nd citizens—h ave power. As the cases of
+Project Dragonfly and Project Maven at Google show, worker pushback can shut
+down projects and save lives. As the Google Walkout showed, until more people
+speak up it is still more acceptable to pay a sexual harasser millions of dollars to leave
+than it is to pay women an equal wage or give them equal opportunities to stay.
+Unionization efforts at Kickstarter and other corporations provide a blueprint for the
+next steps we need to take back our democracy and to make it possible for people to
+speak in favor of what is right in a broader sense.16 And as we saw from the rejection
+of the transphobic and xenophobic Google ethics board due to intense pressure from
+employee organization and protest, workers can begin to call the shots about what
+actually makes good and ethical technology if they work together and fight.17 But
+they can only do this within a framework of a stable, elected democratic government
+that has, at its core, a commitment to protecting citizens and workers instead of seeing them as expendable.
+As we enter this new phase of the digital era, it is important to remember the
+historical lesson that computers, and technologies more generally, have always
+been about control and power. Once a pillar of democratic society, the US press has
+increasingly been weakened by attempts by platforms like Twitter and Facebook to
+step into the role of news media. As social media platforms cut the financial support
+out from under professional journalists, the stakes have never been higher. From
+Amazon worker strikes, to the Uber driver airport blockade in opposition to Trump’s
+“Muslim ban,” to campaigns led by Black women online like #yourslipisshowing to
+help root out online propaganda, the power of people acting not as individuals but
+as members of organized social groups with clear goals is critical, and a free press to
+report on those actions is equally vital.18
+The path ahead is difficult but clear: in order to undo our current multilevel disaster we have to support workers, vote for regulation, and protest (or support those
+protesting) widespread harms like racist violence. The strength of the ballot box is
+not enough when a country’s informational infrastructure is in ruins. Supporting 24 MAr HiCKs
+older, more stable technologies that enhance our society, like the postal system, traditional news media, and citizen-funded public health is as important as rejecting
+newer technologies that threaten to disrupt and divide.
+And if you work in tech, whether you write code for Uber or drive for it, whether you
+design network-attached storage devices or military drones, take the initiative to start
+organizing for the future even as you try to build it: because when you cannot make
+a difference as an individual you can still make a difference in a group. Talk to your
+coworkers and share your salary information to help all of you get equal pay. Schedule
+a meeting with a union organizer. Volunteer and join coalitions in your community. A
+fire can be extinguished, but it can’t be extinguished one cup of water at a time.
+Going forward, we have the same task in front of us that people trying to recover
+from a disaster always have: gather support from the bottom to force change at the
+top. We must pool our resources to resist, refuse, and push back at the highest levels
+of corporate and government power if we are going to have a chance to be heard.
+But on an individual basis, we must also make difficult ethical choices: If your job
+does not allow you to sleep at night, find a new one. Don’t spend your life as a
+conscientious cog in a terribly broken system. If you can’t leave, do your best to
+interrupt the harms your work is creating. Even if you cannot avert a train wreck,
+simply slowing down the runaway train can save lives: if you can do nothing else, go
+slow. Don’t think “if I don’t do it, they’ll just get someone else to do it.” Remember
+instead that the power, and the trap, of neoliberal thinking is that it divides and
+conquers and makes us feel that there is no way out of the current system, when
+there is.
+With effort, and a willingness to question and upend the systems we currently
+take for granted, we can change the infrastructures we’ve built, and we can put out
+the fires for our future selves and the next generation. The bad news is that these
+problems will be hard to solve, and those in control have enormous power that
+they will not easily give up. The good news is that we know we can do it, because
+it’s been done many times before, with many different industries and government
+administrations that have become overbearing and excessively powerful to the point
+of corrupting democracy. This same pattern has played out numerous times: history,
+after all, doesn’t repeat itself, but it rhymes. Our power only exists in its exercise: we
+have to use it in order to make it real.
+To shape the future, look to the past. For all its horrors, history also contains
+hope. By understanding what has come before, we gain the knowledge we need to
+go forward. WHen DiD tHe Fire stArt? 25
+NOTES
+1. Davey Alba, Kate Conger, and Raymond Zhong, “Twitter Adds Warnings to Trump and
+White House Tweets,” New York Times (May 29, 2020), https://www.nytimes.com/2020/05/29/
+technology/trump-twitter-minneapolis-george-floyd.html.
+2. Kate Losse, “The Male Gazed,” Model View Culture (January 2014), https://modelviewculture
+.com/pieces/the-male-gazed.
+3. See, for instance, the way that Black women understood and warned about the dynamics
+of online trolling and abuse far sooner than white women, yet got far less credit for sounding
+the alarm. Rachelle Hampton, “The Black Feminists Who Saw the Alt-Right Threat Coming,”
+Slate (April 23, 2019), https://slate.com/technology/2019/04/black-feminists-alt-right-twitter
+-gamergate.html.
+4. Diana ben-Aaron, “Interview: Weizenbaum Examines Computers and Society,” The Tech (April
+9, 1985), 2.
+5. Laura Raphael, “Mark Zuckerberg Called People Who Handed Over Their Data ‘Dumb
+F****,’” Esquire (March 20, 2018), https://www.esquire.com/uk/latest-news/a19490586/mark
+-zuckerberg-called-people-who-handed-over-their-data-dumb-f/.
+6. In October 2019, Zuckerberg began to claim that he started Facebook as a way for people to
+share news and opinions about the US invasion of Iraq. For more on Facebook’s early days from
+one of its first employees, see Kate Losse, The Boy Kings (New York: Free Press, 2005).
+7. Mar Hicks, Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge
+in Computing (Cambridge, MA: MIT Press, 2017).
+8. Margot Lee Shetterly, Hidden Figures: The American Dream and the Untold Story of the Black
+Women Mathematicians Who Helped Win the Space Race (New York: William Morrow, 2016).
+9. Meredith Broussard, Artificial Unintelligence: How Computers Misunderstand the World (Cambridge, MA: MIT Press, 2018).
+10. Edwin Black, IBM and the Holocaust (New York: Crown Books, 2001), and Clyde W. Ford,
+Think Black: A Memoir (New York: Amistad, 2019).
+11. Simone Browne, Dark Matters: On the Surveillance of Blackness (Durham, NC: Duke, 2015). See
+also Ruha Benjamin, Race after Technology (New York: Polity, 2019).
+12. Clyde W. Ford, Think Black: A Memoir (New York: Amistad, 2019).
+13. Safiya Noble, Algorithms of Oppression (New York: NYU Press, 2018).
+14. David Golumbia, “Do You Oppose Bad Technology, or Democracy?,” Medium (April 24,
+2019), https://medium.com/@davidgolumbia/do-you-oppose-bad-technology-or-democracy-c8ba
+b5e53b32.
+15. Nick Statt, “Google Dissolves AI Ethics Board Just One Week after Forming It: Not a Great
+Sign,” The Verge (April 4, 2019), https://www.theverge.com/2019/4/4/18296113/google-ai-ethics
+-board-ends-controversy-kay-coles-james-heritage-foundation.
+16. April Glaser, “Kickstarter’s Year of Turmoil,” Slate (September 12, 2019), https://slate.com/
+technology/2019/09/kickstarter-turmoil-union-drive-historic-tech-industry.html.
+17. Googlers Against Transphobia, “Googlers Against Transphobia and Hate” Medium.com
+(April 1, 2019), https://medium.com/@against.transphobia/googlers-against-transphobia-and-hate
+-b1b0a5dbf76. 26 MAr HiCKs
+18. Eli Blumenthal, “The Scene at JFK as Taxi Drivers Strike Following Trump’s Immigration
+Ban,” USA Today (January 28, 2017), https://www.usatoday.com/story/news/2017/01/28/taxi
+-drivers-strike-jfk-airport-following-trumps-immigration-ban/97198818/; Josh Dzieza, “‘Beat
+the Machine’: Amazon Warehouse Workers Strike to Protest Inhumane Conditions,” The Verge
+(July 16, 2019), https://www.theverge.com/2019/7/16/20696154/amazon-prime-day-2019-strike
+-warehouse-workers-inhumane-conditions-the-rate-productivity; Rachelle Hampton, “The Black
+Feminists Who Saw the Alt-Right Threat Coming,” Slate (April 23, 2019), https://slate.com/
+technology/2019/04/black-feminists-alt-right-twitter-gamergate.html. I
+NOTHING IS VIRTUAL 
